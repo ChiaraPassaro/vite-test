@@ -10,7 +10,7 @@ const count = ref(0)
 
 <template>
   <h1 class="title">{{ msg }}</h1>
-
+  <img src="@/assets/img/images.jpeg" alt="">
   <p>
     Recommended IDE setup:
     <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>
